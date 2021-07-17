@@ -1,3 +1,7 @@
 h1{
     font-style: italic;
 }
+ul.no bullets{
+    list-style-type: none;
+    
+}
