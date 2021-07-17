@@ -10,3 +10,9 @@ ul.no-bullets{
 li{
     display:block;
 }
+h1{
+    text-align: center;
+    color:greenyellow;
+    background-color: hotpink;
+
+}
