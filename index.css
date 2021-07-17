@@ -24,6 +24,7 @@ p:hover{
     color: red;
     font-size:large;
     
+    
 }
 .navbar{
     display: flex;
@@ -32,3 +33,7 @@ p:hover{
 }
 .navbar>li{ 
     margin: 5px;}
+
+p{
+    text-align: right;
+}
