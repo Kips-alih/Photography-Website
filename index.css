@@ -13,6 +13,14 @@ li{
 h1{
     text-align: center;
     color:greenyellow;
-    background-color: hotpink;
+    background-color: royalblue;
 
+}
+p:hover{
+    font-family:'Times New Roman';
+    font-style: italic;
+    text-decoration: underline;
+    color: red;
+    font-size:large;
+    
 }
