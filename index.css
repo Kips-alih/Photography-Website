@@ -1,7 +1,12 @@
 h1{
     font-style: italic;
 }
-ul.no bullets{
+ul.no-bullets{
     list-style-type: none;
+    padding:none;
+    margin: none;
     
+}
+li{
+    display:block;
 }
