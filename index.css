@@ -1,10 +1,7 @@
 h1{
     font-style: italic;
 }
-ul.no-bullets{
-    list-style-type: none;
-    padding:none;
-    margin: none;
+
     
 }
 li{
@@ -15,14 +12,15 @@ h1{
     color:greenyellow;
     background-color: royalblue;
     text-decoration: none;
+    font-style: normal;
 
 }
-p:hover{
+h1:hover{
     font-family:'Times New Roman';
     font-style: italic;
     text-decoration: underline;
-    color: red;
-    font-size:large;
+    color: green
+    font: size 20px;;
     
     
 }
@@ -35,5 +33,17 @@ p:hover{
     margin: 5px;}
 
 p{
-    text-align: right;
+    text-align: left;
+    color:black;
+}
+li{
+    font-size: medium;
+    font-style: normal;
+}
+h2{
+    text-align:left;
+    font-size: 200;
+}
+img{
+    background-position: left;
 }
