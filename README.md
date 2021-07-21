@@ -2,7 +2,8 @@
 #### This is my photography website.It contains my favorite pictures and some information about me  18/07/2021
 #### By **Alphonce Kipngeno**
 ## Description
-This is a website that gives information about the members of a music band and briefly provides their biographies
+This website displays my favorite pictures, my biography and a submit form.
+It's my first project in this journey of coding.
 ## Setup/Installation Requirements
 *git clone and run the url
 # TITLE
