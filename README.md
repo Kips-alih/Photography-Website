@@ -6,7 +6,7 @@ This is a website that gives information about the members of a music band and b
 ## Setup/Installation Requirements
 *git clone and run the url
 # TITLE
-![WhatsApp Image 2021-07-18 at 16 38 03](https://user-images.githubusercontent.com/87495436/126069475-0efed8b9-9538-4cdb-84a3-aaec76864c89.jpeg)
+![IMG_20210721_061706](https://user-images.githubusercontent.com/87495436/126438221-916f2b07-4f4b-40b9-af1d-b793377a4336.jpg)
 ## Technologies Used
 The tools used in this website are HTML and CSS.
 ## Support and contact details
