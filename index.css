@@ -41,6 +41,7 @@ p{
 li{
     font-size: medium;
     font-style: normal;
+    
 }
 h2{
     text-align:left;
@@ -51,7 +52,4 @@ img{
 }
 em{
     color:hotpink;
-}
-html{
-    background-color: indigo;
 }
