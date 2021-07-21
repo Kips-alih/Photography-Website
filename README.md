@@ -1,5 +1,5 @@
 # ALI WEBSITE
-#### This website dispays information about a music band , 18/07/2021
+#### This is my photography website.It contains my favorite pictures and some information about me  18/07/2021
 #### By **Alphonce Kipngeno**
 ## Description
 This is a website that gives information about the members of a music band and briefly provides their biographies
