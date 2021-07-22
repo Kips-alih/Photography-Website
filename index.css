@@ -46,10 +46,7 @@ h2{
     text-align:left;
     font-size: 200;
 }
-.image{
-    background-position: left;
     
-}
 em{
     color:hotpink;
 }
@@ -71,3 +68,9 @@ span{
     bottom: 0px;
     position: fixed;
 }
+.image{
+    float: left;
+    padding: 20px;
+}
+
+
