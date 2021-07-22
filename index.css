@@ -71,6 +71,10 @@ span{
 .image{
     float: left;
     padding: 20px;
+    border: 1px solid green;
+}
+.image:hover{
+    box-shadow:5px 5px 5px gray;
 }
 
 
