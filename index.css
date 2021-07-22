@@ -9,8 +9,7 @@ li{
 }
 h1{
     text-align: center;
-    color:greenyellow;
-    background-color: royalblue;
+    color:darkblue;
     text-decoration: none;
     font-style: normal;
 
@@ -19,14 +18,14 @@ h1:hover{
     font-family:'Times New Roman';
     font-style: italic;
     text-decoration: underline;
-    font:size 20px;
+    font-size :20px;
     
     
 }
 .navbar{
     display: flex;
     list-style: none;
-background-color: orangered;
+background-color: lightblue
 
 
 }
@@ -55,7 +54,7 @@ em{
     color:hotpink;
 }
 body{
-    background-color:rebeccapurple
+    background-color:white;
 }
 span{
     color: yellow;
@@ -67,4 +66,8 @@ span{
     margin: 0px 10px 20px 0px;
     float: left;
     padding: 10px;
+}
+.paragraph{
+    bottom: 0px;
+    position: fixed;
 }
