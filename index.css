@@ -63,3 +63,8 @@ span{
 .biography{
     font-family: 'Times New Roman';
 }
+.myimage{
+    margin: 0px 10px 20px 0px;
+    float: left;
+    padding: 10px;
+}
