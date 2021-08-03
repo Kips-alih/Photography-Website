@@ -10,6 +10,8 @@ It's my first project in this journey of coding.
 ![IMG_20210721_221844~2](https://user-images.githubusercontent.com/87495436/126581166-92120ec5-697a-4629-8325-4a21b290f7d4.jpg)
 ## Technologies Used
 The tools used in this website are HTML and CSS.
+# Link to Github gh-pages
+[gh-pages link](https://kips-alih.github.io/Photography-Website/)
 ## Support and contact details
  alphonce.kipngeno@student.moringaschool.com
 ### License
