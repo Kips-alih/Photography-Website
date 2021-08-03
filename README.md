@@ -1,12 +1,13 @@
 # ALI WEBSITE
-#### This website dispays information about a music band , 18/07/2021
+#### This is my photography website.It contains my favorite pictures and some information about me  18/07/2021
 #### By **Alphonce Kipngeno**
 ## Description
-This is a website that gives information about the members of a music band and briefly provides their biographies
+This website displays my favorite pictures, my biography and a submit form.
+It's my first project in this journey of coding.
 ## Setup/Installation Requirements
 *git clone and run the url
 # TITLE
-![WhatsApp Image 2021-07-18 at 16 38 03](https://user-images.githubusercontent.com/87495436/126069475-0efed8b9-9538-4cdb-84a3-aaec76864c89.jpeg)
+![IMG_20210721_221844~2](https://user-images.githubusercontent.com/87495436/126581166-92120ec5-697a-4629-8325-4a21b290f7d4.jpg)
 ## Technologies Used
 The tools used in this website are HTML and CSS.
 # Link to Github gh-pages
