@@ -9,6 +9,8 @@ This is a website that gives information about the members of a music band and b
 ![WhatsApp Image 2021-07-18 at 16 38 03](https://user-images.githubusercontent.com/87495436/126069475-0efed8b9-9538-4cdb-84a3-aaec76864c89.jpeg)
 ## Technologies Used
 The tools used in this website are HTML and CSS.
+# Link to Github gh-pages
+[gh-pages link](https://kips-alih.github.io/Photography-Website/)
 ## Support and contact details
  alphonce.kipngeno@student.moringaschool.com
 ### License
