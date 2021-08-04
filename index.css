@@ -51,7 +51,7 @@ em{
     color:hotpink;
 }
 body{
-    background-color:white;
+    background-color:greenyellow;
 }
 span{
     color:blue;
@@ -79,8 +79,4 @@ span{
 }
 .button{
     background-color: green;
-}
-.change{
-    background-color: hotpink;
-    height: 1024px;
 }
